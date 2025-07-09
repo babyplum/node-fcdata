@@ -12,6 +12,6 @@
   "dependencies": {
     "axios": "0.27.2",
     "express": "^4.17.0",
-    "ssi-fcdata": "^2.0.0"
+    "ssi-fcdata": "^2.2.0"
   }
 }
