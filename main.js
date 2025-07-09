@@ -1,11 +1,11 @@
 /** @START_CONFIG */
-
 const express = require('express');
 const config = require('./config.js');
 const client = require('ssi-fcdata');
 const axios = require('axios');
 const app = express();
 const port = 3020;
+
 /** @END_CONFIG */
 
 app.get('/Securities', (req, res) => {

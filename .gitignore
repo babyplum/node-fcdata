@@ -25,3 +25,6 @@ hs_err_pid*
 .idea
 .vs
 **/node_modules
+
+# environment files
+.env
